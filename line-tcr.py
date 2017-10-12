@@ -15,7 +15,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" Is show time Bot
+helpMessage =""" SelfBot by Ŧяәәяɘɔɥɘı
 [Id︎]
 [Mid]
 [Me︎]
@@ -92,7 +92,7 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":True,
-    "cName":"Is show time ",
+    "cName":" ",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
